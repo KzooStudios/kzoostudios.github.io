@@ -1,2 +1,1 @@
-# kzoostudios.github.io
-The website for Kzoo Studios.
+The test branch for the Kzoo Studios website.
