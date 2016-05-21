@@ -1,13 +1,40 @@
-.header-text {
-  background-color: rgb(6, 205, 205);
-}
-
 .header-text-h1 {
   margin: 0;
   padding: 0;
+  color: rgb(255, 255, 255);
+  font-family: 'Fjalla One', sans-serif;
 }
 
 html, body {
   height: 100%;
   width: 100%;
+}
+
+body {
+  background-color: rgb(25, 205, 200);
+}
+
+.buttons {
+  background-color: rgb(43, 43, 43);
+}
+
+.welcome {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.our-projects {
+  position: absolute; left: 100px;
+}
+
+.our-history {
+  position: absolute; left: 900px;
+}
+
+.our-team {
+  position: absolute; right: 100px;
+}
+
+.footer {
+  background-color: #575757;
 }
